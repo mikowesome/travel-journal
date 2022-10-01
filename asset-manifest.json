@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mikowesome/travel-journal/static/css/main.f95702fd.css",
-    "main.js": "/mikowesome/travel-journal/static/js/main.a628b7fc.js",
-    "static/js/787.39019643.chunk.js": "/mikowesome/travel-journal/static/js/787.39019643.chunk.js",
-    "static/media/logo.svg": "/mikowesome/travel-journal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/mikowesome/travel-journal/index.html",
-    "main.f95702fd.css.map": "/mikowesome/travel-journal/static/css/main.f95702fd.css.map",
-    "main.a628b7fc.js.map": "/mikowesome/travel-journal/static/js/main.a628b7fc.js.map",
-    "787.39019643.chunk.js.map": "/mikowesome/travel-journal/static/js/787.39019643.chunk.js.map"
+    "main.css": "/travel-journal/static/css/main.f95702fd.css",
+    "main.js": "/travel-journal/static/js/main.7e8691c7.js",
+    "static/js/787.39019643.chunk.js": "/travel-journal/static/js/787.39019643.chunk.js",
+    "static/media/logo.svg": "/travel-journal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travel-journal/index.html",
+    "main.f95702fd.css.map": "/travel-journal/static/css/main.f95702fd.css.map",
+    "main.7e8691c7.js.map": "/travel-journal/static/js/main.7e8691c7.js.map",
+    "787.39019643.chunk.js.map": "/travel-journal/static/js/787.39019643.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f95702fd.css",
-    "static/js/main.a628b7fc.js"
+    "static/js/main.7e8691c7.js"
   ]
 }
